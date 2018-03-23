@@ -1,0 +1,68 @@
+.a
+{
+	height: 100%;width: 30%;float: left;
+}
+.b
+{
+	background-color: 	#7FFFD4;height: 92%;width: 70%;display: flex;
+}
+.c
+{
+	height: 100%;width:100%;background-color: 	#F0FFFF;
+}
+.d
+{
+	height: 15%;width: 100%;background-color:yellow;
+}
+.e
+{
+	height: 100%;width: 15%;background-color: white;float: left;
+}
+.f
+{
+	height: 100%;width: 85%;background-color:	#7FFFD4;float: right;
+}
+.g
+{
+	height: 50%;width: 100%;background-color:	#FFFAF0;
+}
+.h
+{
+	height: 50%;width: 100%;
+}
+.i
+{
+	height: 75%;width: 100%;
+}
+.j
+{
+	height: 10%;width: 100%;
+}
+.k
+{
+	height: 100%;width: 100%;
+}
+.l
+{
+	text-align: center;font-size: 450%;		
+}
+.m
+{
+	text-align:center;font-size:200%;color: #00BFFF;
+}
+.n
+{
+	text-align:center;font-size:200%;
+}
+.o
+{
+	float: right;
+	border-radius: 50%;
+}
+.p
+{
+	float: left;
+	border-radius: 50%;
+
+}
+
